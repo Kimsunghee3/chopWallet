@@ -1,0 +1,5 @@
+export * from "./MainRouter"
+export * from "./InitRouter"
+export * from "./marketRouter"
+export * from "./settingRouter"
+export * from "./trendsRouter"

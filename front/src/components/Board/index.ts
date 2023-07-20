@@ -1,0 +1,5 @@
+export * from "./NftBoardContentRows"
+export * from "./NftBoardContentRow"
+export * from "./NftBoardHeader"
+export * from "./Board"
+export * from "./styled"
